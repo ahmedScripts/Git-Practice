@@ -3,3 +3,4 @@ This line is written in first branch
 
 This line creates feature2
 This line als creates feature2
+This line is also feature2
