@@ -12,3 +12,4 @@ This line is also feature3.
 
 This line is feature4.
 This line is also feature4.
+This line is also feature3.
